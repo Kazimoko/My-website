@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>MY LIFE</title>
+<style>
+    h5{color:orange;
+    font-size:28;}
+    h{color:yellow;
+    font-size:21;}
+    h1{color:brown;
+    font-size:20;}
+    h2{color:indigo;
+    font-size:24;}
+    ol{font-size:20;
+    color:blue; }
+    h3{font-size:24;
+    color:pink;}
+    table{font-size:20;
+    display:solid red;
+    color:yellow;}
+    big{color:violet; }
+    video{width:350;}
+    h4{font-size:30;
+    color:red;}
+    div{border:2px solid red;
+    background-color:green;}
+    p{Color:red;}
+    img{width:350;}
+    </style>
+</head>
+<body>
+<div>
+<center><h5><u>EVERY THINGS ABOUT MY LIFE</u></h5></center>
+<center><img src="Alarms/M.jpg"></center>
+<center><audio controls>
+<source src="Alarms/Mm.mp3">
+</audio></center>
+<br>
+<h>My name is <big>ABDUL OMAR KAZIMOKO</big>
+I born at <big>DAR-ES-SALAAM TANZANIA</big>
+I live at <big>TANDIKA DAR-ES-SALAAM</big></h>
+<h1>I am fifth child for nine children from my parents called-;
+<big>OMAR KAZIMOKO</big> and <big>SALMA KINYOGOLI</big>
+<h2>And I have five sister and three brothers which are-;</h2>
+<ol>
+<li>SUBIRA OMAR KAZIMOKO</li>
+<li>MAUA OMAR KAZIMOKO</li>
+<li>ZAINABU OMAR KAZIMOKO</li>
+<li>TARK OMAR KAZIMOKO</li>
+<li>RADHIA OMAR KAZIMOKO</li>
+<li>MOHAMMED OMAR KAZIMOKO</li>
+<li>SHADRACK OMAR KAZIMOKO</li>
+<li>NADYA OMAR KAZIMOKO</li>
+</ol>
+<center><h3><u>MOSHI CO-OPERATIVE UNIVERSITY<br>(MoCU)</u></h3></center>
+<table border="2px">
+<tr>
+<td colspan="3"><strong><marquee><big> WELCOME TO MOSHI CO-OPERATIVE UNIVERSITY</big></marquee></strong></td>
+  </tr>
+  <tr>
+  <td><em>NAME:</em></td><td colspan="2"><strong>ABDUL OMAR KAZIMOKO</strong></td>
+  </tr>
+  <tr><td><em>LEVER:</em></td><td><strong>CERTIFICATE</strong></td>
+  </tr>
+  <tr>
+  <td><em>COUR</em></td><SE:</em></td><td><strong>INFORMATION TECHNOLOGY</strong></td>
+  </tr>
+  <tr>
+  <td><em>YEAR OF STUDY:</em></td><td><strong>2024-2025</strong></td>
+  </tr>
+  <tr>
+  <td><em>ADMISSION NO:</em></td><td><strong>MoCU/CIT/1371/24</strong></td>
+  </tr>
+  </table>
+  <center>
+  <h4>Every things its possible under the sun</h4>
+ <video controls>
+  <source src="Alarms/Moko.mp4">
+  </video></center>
+  <p>By;Job one💪</p>
+  </div>
+  </body>
+  </html
